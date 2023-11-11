@@ -1,0 +1,45 @@
+.rounded-border-button {
+    width: 130px;
+    height: 40px;
+    background-color: whitesmoke;
+    border: 2px solid #29b4b9; 
+    border-radius: 20px; 
+    color: #29b4b9;
+    font-size: 19px;
+    cursor: pointer;
+}
+
+.rounded-border-button:hover {
+    background-color: #2980b9;
+}
+
+
+.circular-button {
+    width: 40px;
+    height: 40px;
+    background-color: #29b4b9;
+    border: 2px solid #29b4b9; 
+    border-radius: 50%;
+    color: #fff;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.circular-button:hover {
+    background-color: #2980b9; 
+}
+
+.shadow-button {
+    width: 150px;
+    height: 50px;
+    background-color: #3498db;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 7px 7px 5px rgba(0, 0, 0, 0.3);
+}
+
+
+
